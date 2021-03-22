@@ -155,6 +155,10 @@ We are going to download the whole schema list from the device to our newly adde
 
 ![](imgs/image6.png)
 
+
+
+*Note: It might take some time to dowload the whole repository and you can see the downloading status on the top*
+
 #### Create a YANG module Set
 
 Next, you will create a YANG model set. A YANG set is a subset of a YANG repository, consisting of a set of modules of interest and any necessary dependencies they have. A YANG set could be as large as the entire repository's contents, but it's often more efficient to narrow the set down to only the models that we're really interested in.
