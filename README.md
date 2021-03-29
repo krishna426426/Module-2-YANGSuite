@@ -178,7 +178,7 @@ Now we will add YANG Modules to the newly created set.
 
 ![](imgs/image8.png)
 
-*Note: It might take some time to dowload the whole repository and ignore any deviation errors or warnings those are due to wrong revisions of the dependencies*
+*Note: It might take some time to dowload the whole repository and ignore any deviation errors or warnings those are due to wrong revisions of that module dependencies*
 
 YANG Suite automatically runs a validation check to make sure all the modules dependencies are met and provides an automatic remediation in case some dependencies are missing.
 All the IOS XE Native modes are displayed in the box on the left.
