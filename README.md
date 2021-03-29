@@ -91,7 +91,7 @@ At the beginning of this lab we already have verified AAA and NETCONF on the swi
 
 * Login using the provided credentials **(admin/Cisco123)**
 
-Once logged in, you'll end up at the mail YANG Suite application window:
+Once logged in, you'll end up at the  YANG Suite application window:
 
 ![](imgs/image1.png)
 
