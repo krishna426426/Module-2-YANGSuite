@@ -87,7 +87,7 @@ At the beginning of this lab we already have verified AAA and NETCONF on the swi
 
 > Access the POD# that you have been assigned to.
 
-* Open a Firefox web browser and access YANG Suite at **http://10.1.1.3:8480/**
+* Open a Firefox web browser and access YANG Suite at **[https://localhost](https://localhost/)** and if it asks any license agreement click **submit**
 
 * Login using the provided credentials **(admin/Cisco123)**
 
