@@ -89,7 +89,7 @@ At the beginning of this lab we already have verified AAA and NETCONF on the swi
 
 * Open a Firefox web browser and access YANG Suite at **[https://localhost](https://localhost/)** and if it asks any license agreement click **submit**
 
-* Login using the provided credentials **(admin/Cisco123)**
+* Login using the provided credentials **(admin/superuser)**
 
 Once logged in, you'll end up at the  YANG Suite application window:
 
